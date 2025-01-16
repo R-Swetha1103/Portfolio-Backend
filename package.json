@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "nodemailer": "^6.9.16"
+    "dotenv": "^16.4.7",
+    "nodemailer": "^6.9.16",
+    "sendgrid": "^5.2.3"
   }
 }
