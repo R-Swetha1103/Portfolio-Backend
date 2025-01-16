@@ -3,7 +3,7 @@ const nodemailer = require('nodemailer');
 require('dotenv').config();
 
 const app = express();
-const PORT = 5003;
+const PORT = 5004;
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
